@@ -4,4 +4,6 @@ const test = () => {
   console.log(789);
   console.log('master-branch');
   console.log('test-branch');
+  console.log('to-revert');
+  console.log('to-revert-1');
 };
